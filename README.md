@@ -2,7 +2,7 @@
 
 This is a simple implementation of famous dino game developed using Pygame. The objective of the game is to avoid the obstacles (cactus and bird).
 
-**Gameplay**
+#**Gameplay**
 
 The game features a dinosaur character that the player controls to avoid obstacles and survive for as long as possible. The main features include:
 
@@ -16,7 +16,7 @@ The game features a dinosaur character that the player controls to avoid obstacl
 
 **Restart**: Players can restart the game by clicking on the replay button after a game over
 
-**How to Play**
+#**How to Play**
 
 **Start**: Press Spacebar to start the game.
 
